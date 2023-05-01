@@ -1,0 +1,41 @@
+@media screen and (max-width: 1024px) {
+  .card {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+    max-width: 22rem;
+    max-height: 30rem;
+  }
+  .card h1 {
+    font-size: 1.4rem;
+  }
+  .card p {
+    font-size: 0.8rem;
+  }
+  .attribution {
+    font-size: 0.6rem;
+    text-align: center;
+    padding-bottom: 2.813rem;
+  }
+}
+
+@media screen and (max-width: 570px) {
+  .card {
+    max-width: 20rem;
+    max-height: 30rem;
+  }
+    .card h1 {
+    padding: 0 0.8rem 0;
+    font-size: 1.3rem;
+  }
+  .card p {
+    font-size: 0.87rem;
+  }
+  .attribution {
+    width: 90%;
+    font-size: 0.6rem;
+    text-align: center;
+    padding-bottom: 2.5rem;
+  }
+}

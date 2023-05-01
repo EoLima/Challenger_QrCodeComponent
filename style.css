@@ -1,0 +1,53 @@
+:root {
+  --color-white: hsl(0, 0%, 100%);
+  --color-lightGray: hsl(212, 45%, 89%);
+  --color-grayishBlue: hsl(220, 15%, 55%);
+  --color-darkBlue: hsl(218, 44%, 22%);
+}
+
+body {
+  background-color: var(--color-lightGray);
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+.card {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 1rem solid var(--color-white);
+  border-radius: 1.5rem;
+  background-color: var(--color-white);
+  width: 22rem;
+  height: 33rem;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 0.7rem;
+  margin-bottom: 0.938rem;
+}
+
+.card h1 {
+  font-size: 1.5rem;
+  text-align: center;
+  color: var(--color-darkBlue);
+  padding: 0 0.938rem 0;
+  margin-bottom: 1.25rem;
+}
+
+.card p {
+  font-size: 0.938rem;
+  color: var(--color-grayishBlue);
+  text-align: center;
+  padding: 0 1.875rem 0;
+}
+
+.attribution {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding-bottom: 2.5rem;
+}
