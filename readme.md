@@ -15,28 +15,13 @@ I am very happy and proud, and I hope that my solution can help some of you.
 # 📷 Web Version
 
 <div align="center" >
- <img src="https://user-images.githubusercontent.com/123023440/235485115-d25d0429-32d3-4bb8-9e89-edc72300cb18.png">
- <br />
- <br />
- <img src="https://user-images.githubusercontent.com/123023440/235485155-224e0d55-4d13-490c-878a-b73ddd6b221c.png">
+ <img src="https://user-images.githubusercontent.com/123023440/235500707-ef861f5c-980d-4a50-af66-b238108b8b7a.png">
 </div>
 
 # 📷 Mobile Version
 
 <div align="center" >
- <img src="https://user-images.githubusercontent.com/123023440/235487985-03c02fb5-8ab1-42f1-bb41-970dfc96120b.png">
- <br />
- <br />
- <img src="https://user-images.githubusercontent.com/123023440/235487988-0957110c-9a32-468e-8d81-22e7faf6382c.png">
- <br />
- <br />
- <img src="https://user-images.githubusercontent.com/123023440/235487978-810590bc-b84f-49a1-a90d-56f1714d5f92.png">
- <br />
- <br />
- <img src="https://user-images.githubusercontent.com/123023440/235487982-04c5630d-8366-4cd8-bcc7-1840f68e0d39.png">
- <br />
- <br />
- <img src="https://user-images.githubusercontent.com/123023440/235487984-97515b53-60a2-487f-bac6-2b5555ef0cde.png">
+ <img src="https://user-images.githubusercontent.com/123023440/235500717-ac8e0739-7cb1-40f9-87d7-99efeb2d310b.png">
 </div>
 
 ## 🧑🏾‍💻 Tools Used
@@ -49,7 +34,7 @@ This project was developed with the following technologies:
 
 ## 📂 Project Access
 
-You can acess this project <a href="https://eolima.github.io/Projeto_LandingPage_OneBitCode/" target="_blank" > here </a>
+You can acess this project <a href="https://eolima.github.io/Challenger_QrCodeComponent/" target="_blank" > here </a>
 
 ### Contact me
 
